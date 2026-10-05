@@ -1,4 +1,4 @@
-# Global Supply Chain Risk & Disruption Dashboard
+# Global Supply Chain Risk & Disruption Analysis
 
 Power BI dashboard analyzing 5,000 global shipment records to identify 
 key drivers of supply chain disruption, including geopolitical risk, 
